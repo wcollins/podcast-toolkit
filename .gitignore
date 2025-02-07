@@ -1,0 +1,29 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+*.env
+*.venv
+env/
+.venv/
+.env/
+
+# Distribution / packaging
+.Python
+_build/
+build/
+dist/
+sdist/
+*.egg-info
+*.egg
+*.whl
+
+# Log and temp files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
