@@ -27,3 +27,6 @@ sdist/
 *.temp
 *.bak
 *.swp
+
+# vscode
+*.code-workspace
